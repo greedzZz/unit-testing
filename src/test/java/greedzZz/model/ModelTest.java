@@ -1,7 +1,5 @@
-package model;
+package greedzZz.model;
 
-import greedzZz.model.Person;
-import greedzZz.model.Thing;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
